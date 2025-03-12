@@ -12,4 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20WonHee%20Ki.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20WonHee%20Ki.&fontSize=70&color=0:8871e5,100:b678c4)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taceheh)](https://github.com/anuraghazra/github-readme-stats)
+![taceheh's GitHub stats](https://github-readme-stats.vercel.app/api?username=taceheh&hide=contribs,prs&show_icons=true&theme=graywhite)
